@@ -35,7 +35,7 @@ Full_stack_jwt_security/ ├── backend/ # Spring Boot backend │ ├── 
 🔧 Setup & Installation
 
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/Full_stack_jwt_security.git
+git clone [https://github.com/your-username/Full_stack_jwt_security.git](https://github.com/Vilas-rathod/full-stack-jwt-security.git)
 cd Full_stack_jwt_security
 
 🔗 API Endpoints
