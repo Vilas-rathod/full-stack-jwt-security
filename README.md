@@ -1,4 +1,4 @@
-## Full-Stack JWT Role-Based Authentication
+### Full-Stack JWT Role-Based Authentication
 
 ## 🚀 Project Overview  
 This is a **Full-Stack Role-Based Authentication System** built using **Spring Boot (Backend)** and **React (Frontend)** with **JWT (JSON Web Token) Security**.  
@@ -26,13 +26,13 @@ The application provides authentication and authorization for **User** and **Adm
 - **React.js** (React Router, Axios for API calls)  
 
 
-🔧 Setup & Installation
+## 🔧 Setup & Installation
 
 1️⃣ Clone the Repository
 git clone [https://github.com/your-username/Full_stack_jwt_security.git](https://github.com/Vilas-rathod/full-stack-jwt-security.git)
 cd Full_stack_jwt_security
 
-🔗 API Endpoints
+## 🔗 API Endpoints
 
 | Method | Endpoint            | Description            |
 |--------|---------------------|------------------------|
