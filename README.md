@@ -28,19 +28,7 @@ React.js (React Router, Axios for API calls)
 
 📂 Folder Structure
 
-Full_stack_jwt_security/
-│── backend/               # Spring Boot backend
-│   ├── src/main/java/com/example/security
-│   ├── src/main/resources/application.properties
-│   ├── pom.xml            # Maven dependencies
-│
-│── frontend/              # React frontend
-│   ├── src/
-│   ├── public/
-│   ├── package.json       # Dependencies
-│
-│── README.md              # Project Documentation
-
+Full_stack_jwt_security/ │── backend/ # Spring Boot backend │ ├── src/main/java/com/example/security │ ├── src/main/resources/application.properties │ ├── pom.xml # Maven dependencies │ │── frontend/ # React frontend │ ├── src/ │ ├── public/ │ ├── package.json # Dependencies │ │── README.md # Project Documentation
 
 🔧 Setup & Installation
 
