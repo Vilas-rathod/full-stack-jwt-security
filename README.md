@@ -1,4 +1,4 @@
-Full-Stack JWT Role-Based Authentication
+## Full-Stack JWT Role-Based Authentication
 
 ## 🚀 Project Overview  
 This is a **Full-Stack Role-Based Authentication System** built using **Spring Boot (Backend)** and **React (Frontend)** with **JWT (JSON Web Token) Security**.  
