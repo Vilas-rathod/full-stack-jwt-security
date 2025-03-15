@@ -47,3 +47,19 @@ cd Full_stack_jwt_security
 | POST   | `/api/auth/login`    | Login and get JWT     |
 | GET    | `/api/user`          | Access user content   |
 | GET    | `/api/admin`         | Admin-only access     |
+
+
+🎯 **Future Enhancements**
+- Add social login (Google, GitHub OAuth)
+- Implement email verification
+- Improve UI/UX with better design
+
+📢 **Why This Project Stands Out (For Recruiters)**
+- **Practical Full-Stack Security Implementation**: Demonstrates real-world authentication best practices.
+- **Industry-Standard Tools & Technologies**: Uses modern security standards with JWT & Spring Security.
+- **Scalable Architecture**: Follows a modular design that can be extended to larger applications.
+- **Frontend-Backend Integration**: Showcases how React and Spring Boot communicate effectively.
+
+🤝 **Contributing**
+Feel free to fork and contribute! Create a pull request for improvements.
+
